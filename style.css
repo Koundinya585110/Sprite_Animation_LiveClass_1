@@ -1,0 +1,11 @@
+canvas {
+    border: 1px solid;
+    border-radius: 25px;
+    background-color: #FFFF00;
+}
+body{
+    background-color: black;
+}
+button{
+    font-size: 45px;
+}
